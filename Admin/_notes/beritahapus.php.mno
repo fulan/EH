@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_hapus" value="name:id_berita;datatype:int,name:judul;datatype:string,name:isi;datatype:blob,name:gambar;datatype:string,name:penulis;datatype:string,name:tanggal;datatype:date,name:jam;datatype:time" />
+	<infoitem key="UD_haapus" value="name:id_berita;datatype:int,name:judul;datatype:string,name:isi;datatype:blob,name:gambar;datatype:string,name:penulis;datatype:string,name:tanggal;datatype:date,name:jam;datatype:time" />
+	<infoitem key="UD_hapusberita" value="name:id_berita;datatype:int,name:judul;datatype:string,name:isi;datatype:blob,name:gambar;datatype:string,name:penulis;datatype:string,name:tanggal;datatype:date,name:jam;datatype:time" />
+</info>

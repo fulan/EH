@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_hapus_admin" value="name:id_admin;datatype:int,name:nama_admin;datatype:string,name:username;datatype:string,name:password;datatype:string,name:level;datatype:string,name:gender;datatype:string,name:agama;datatype:string,name:TTL;datatype:date,name:alamat;datatype:string,name:tlp;datatype:string,name:email;datatype:string,name:foto_admin;datatype:string" />
+</info>

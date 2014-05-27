@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_album" value="name:id_album;datatype:int,name:nama_album;datatype:string" />
+</info>

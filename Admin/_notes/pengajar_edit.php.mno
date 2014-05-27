@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pengajar_edit" value="name:id_pengajar;datatype:int,name:nomer_induk_pengajar;datatype:string,name:nama_pengajar;datatype:string,name:username;datatype:string,name:password;datatype:string,name:level;datatype:string,name:gender;datatype:string,name:agama;datatype:string,name:TTL;datatype:date,name:alamat;datatype:string,name:tlp;datatype:string,name:email;datatype:string,name:foto_pengajar;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_berita" value="name:id_berita;datatype:int,name:judul;datatype:string,name:isi;datatype:blob,name:gambar;datatype:string,name:penulis;datatype:string,name:tanggal;datatype:date,name:jam;datatype:time" />
+	<infoitem key="UD_tampilberita" value="name:id_berita;datatype:int,name:judul;datatype:string,name:isi;datatype:blob,name:gambar;datatype:string,name:penulis;datatype:string,name:tanggal;datatype:date,name:jam;datatype:time" />
+</info>
